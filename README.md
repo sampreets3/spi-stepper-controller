@@ -4,10 +4,9 @@
 # spi-stepper-controller
 Design for an SPI based bipolar stepper motor controller, useful in robotic/3D printing applications. Makes use of the MCP23S08 SPI based I/O expander. Ideal for applications where number of GPIO is constrained. Provided with accompanying library to interface with the board.
 
-<!--<p align="center">
-  <img src="your_relative_path_here" width="350" title="schematics-full">
+<p align="center">
+  <img src="https://github.com/sampreets3/spi-stepper-controller/blob/master/res/img/motor-control-spi.png" width="350" title="rendered-pcb">
 </p>
--->
 ---
 
 ## Considerations
@@ -22,11 +21,11 @@ Design for an SPI based bipolar stepper motor controller, useful in robotic/3D p
 ### Schematic
 <details>
   <summary>Click to view the full schematic</summary>
-<!--
+
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="schematics-full">
+  <img src="https://github.com/sampreets3/spi-stepper-controller/blob/master/res/img/schematic-full.png" width="350" title="schematics-full">
 </p>
--->
+
 </details>
 
 ### Layout
