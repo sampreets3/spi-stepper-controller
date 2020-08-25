@@ -1084,4 +1084,6 @@ Wire Wire Line
 Connection ~ 5530 2240
 Wire Wire Line
 	5530 2240 5670 2240
+Text Notes 1050 2210 0    59   ~ 12
+DECOUPLING CAPACITORS:
 $EndSCHEMATC
